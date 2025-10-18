@@ -1,11 +1,11 @@
-# 🧠 TransformerGPT with LoRA Fine-Tuning
+## TransformerGPT with LoRA Fine-Tuning
 
 This repository implements a **Transformer-based GPT model** from scratch using **PyTorch**, with support for **LoRA (Low-Rank Adaptation)** fine-tuning for efficient parameter updates.
 It includes full data preprocessing, model training, LoRA injection, and text generation pipelines.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
